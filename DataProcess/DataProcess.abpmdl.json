@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "DataProcess.Domain.Shared": {
+      "path": "src/DataProcess.Domain.Shared/DataProcess.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "DataProcess.Domain": {
+      "path": "src/DataProcess.Domain/DataProcess.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "DataProcess.Application.Contracts": {
+      "path": "src/DataProcess.Application.Contracts/DataProcess.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "DataProcess.Application": {
+      "path": "src/DataProcess.Application/DataProcess.Application.abppkg.json",
+      "folder": "src"
+    },
+    "DataProcess.EntityFrameworkCore": {
+      "path": "src/DataProcess.EntityFrameworkCore/DataProcess.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "DataProcess.MongoDB": {
+      "path": "src/DataProcess.MongoDB/DataProcess.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "DataProcess.HttpApi": {
+      "path": "src/DataProcess.HttpApi/DataProcess.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "DataProcess.HttpApi.Client": {
+      "path": "src/DataProcess.HttpApi.Client/DataProcess.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "DataProcess.TestBase": {
+      "path": "test/DataProcess.TestBase/DataProcess.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "DataProcess.EntityFrameworkCore.Tests": {
+      "path": "test/DataProcess.EntityFrameworkCore.Tests/DataProcess.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "DataProcess.MongoDB.Tests": {
+      "path": "test/DataProcess.MongoDB.Tests/DataProcess.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "DataProcess.Domain.Tests": {
+      "path": "test/DataProcess.Domain.Tests/DataProcess.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "DataProcess.Application.Tests": {
+      "path": "test/DataProcess.Application.Tests/DataProcess.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "DataProcess.HttpApi.Host": {
+      "path": "host/DataProcess.HttpApi.Host/DataProcess.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "DataProcess.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/DataProcess.HttpApi.Client.ConsoleTestApp/DataProcess.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "DataProcess.AuthServer": {
+      "path": "host/DataProcess.AuthServer/DataProcess.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "DataProcess.Host.Shared": {
+      "path": "host/DataProcess.Host.Shared/DataProcess.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

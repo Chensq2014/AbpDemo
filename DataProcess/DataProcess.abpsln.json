@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "DataProcess": {
+      "path": "DataProcess.abpmdl.json"
+    }
+  }
+}
